@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		04CB3AB324D8291C0065CA9C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CB3AB224D8291C0065CA9C /* AppDelegate.swift */; };
-		04CB3AB524D8291C0065CA9C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CB3AB424D8291C0065CA9C /* ViewController.swift */; };
-		04CB3AB824D8291C0065CA9C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04CB3AB624D8291C0065CA9C /* Main.storyboard */; };
-		04CB3ABA24D829240065CA9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04CB3AB924D829240065CA9C /* Assets.xcassets */; };
-		04CB3ABD24D829240065CA9C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04CB3ABB24D829240065CA9C /* LaunchScreen.storyboard */; };
+		04CB3AD124D829E30065CA9C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CB3AD024D829E30065CA9C /* AppDelegate.swift */; };
+		04CB3AD324D829E30065CA9C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CB3AD224D829E30065CA9C /* ViewController.swift */; };
+		04CB3AD624D829E30065CA9C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04CB3AD424D829E30065CA9C /* Main.storyboard */; };
+		04CB3AD824D829E40065CA9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04CB3AD724D829E40065CA9C /* Assets.xcassets */; };
+		04CB3ADB24D829E40065CA9C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04CB3AD924D829E40065CA9C /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		04CB3AAF24D8291C0065CA9C /* Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		04CB3AB224D8291C0065CA9C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		04CB3AB424D8291C0065CA9C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		04CB3AB724D8291C0065CA9C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		04CB3AB924D829240065CA9C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		04CB3ABC24D829240065CA9C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		04CB3ABE24D829240065CA9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04CB3ACD24D829E30065CA9C /* Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		04CB3AD024D829E30065CA9C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		04CB3AD224D829E30065CA9C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		04CB3AD524D829E30065CA9C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		04CB3AD724D829E40065CA9C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		04CB3ADA24D829E40065CA9C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		04CB3ADC24D829E50065CA9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		04CB3AAC24D8291C0065CA9C /* Frameworks */ = {
+		04CB3ACA24D829E30065CA9C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,31 +35,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		04CB3AA624D8291C0065CA9C = {
+		04CB3AC424D829E30065CA9C = {
 			isa = PBXGroup;
 			children = (
-				04CB3AB124D8291C0065CA9C /* Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database- */,
-				04CB3AB024D8291C0065CA9C /* Products */,
+				04CB3ACF24D829E30065CA9C /* Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database- */,
+				04CB3ACE24D829E30065CA9C /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		04CB3AB024D8291C0065CA9C /* Products */ = {
+		04CB3ACE24D829E30065CA9C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				04CB3AAF24D8291C0065CA9C /* Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-.app */,
+				04CB3ACD24D829E30065CA9C /* Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		04CB3AB124D8291C0065CA9C /* Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database- */ = {
+		04CB3ACF24D829E30065CA9C /* Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database- */ = {
 			isa = PBXGroup;
 			children = (
-				04CB3AB224D8291C0065CA9C /* AppDelegate.swift */,
-				04CB3AB424D8291C0065CA9C /* ViewController.swift */,
-				04CB3AB624D8291C0065CA9C /* Main.storyboard */,
-				04CB3AB924D829240065CA9C /* Assets.xcassets */,
-				04CB3ABB24D829240065CA9C /* LaunchScreen.storyboard */,
-				04CB3ABE24D829240065CA9C /* Info.plist */,
+				04CB3AD024D829E30065CA9C /* AppDelegate.swift */,
+				04CB3AD224D829E30065CA9C /* ViewController.swift */,
+				04CB3AD424D829E30065CA9C /* Main.storyboard */,
+				04CB3AD724D829E40065CA9C /* Assets.xcassets */,
+				04CB3AD924D829E40065CA9C /* LaunchScreen.storyboard */,
+				04CB3ADC24D829E50065CA9C /* Info.plist */,
 			);
 			path = "Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-";
 			sourceTree = "<group>";
@@ -67,13 +67,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		04CB3AAE24D8291C0065CA9C /* Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database- */ = {
+		04CB3ACC24D829E30065CA9C /* Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database- */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 04CB3AC124D829240065CA9C /* Build configuration list for PBXNativeTarget "Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-" */;
+			buildConfigurationList = 04CB3ADF24D829E50065CA9C /* Build configuration list for PBXNativeTarget "Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-" */;
 			buildPhases = (
-				04CB3AAB24D8291C0065CA9C /* Sources */,
-				04CB3AAC24D8291C0065CA9C /* Frameworks */,
-				04CB3AAD24D8291C0065CA9C /* Resources */,
+				04CB3AC924D829E30065CA9C /* Sources */,
+				04CB3ACA24D829E30065CA9C /* Frameworks */,
+				04CB3ACB24D829E30065CA9C /* Resources */,
 			);
 			buildRules = (
 			);
@@ -81,25 +81,25 @@
 			);
 			name = "Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-";
 			productName = "Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-";
-			productReference = 04CB3AAF24D8291C0065CA9C /* Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-.app */;
+			productReference = 04CB3ACD24D829E30065CA9C /* Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		04CB3AA724D8291C0065CA9C /* Project object */ = {
+		04CB3AC524D829E30065CA9C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = Mac;
 				TargetAttributes = {
-					04CB3AAE24D8291C0065CA9C = {
+					04CB3ACC24D829E30065CA9C = {
 						CreatedOnToolsVersion = 10.1;
 					};
 				};
 			};
-			buildConfigurationList = 04CB3AAA24D8291C0065CA9C /* Build configuration list for PBXProject "Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-" */;
+			buildConfigurationList = 04CB3AC824D829E30065CA9C /* Build configuration list for PBXProject "Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -107,54 +107,54 @@
 				en,
 				Base,
 			);
-			mainGroup = 04CB3AA624D8291C0065CA9C;
-			productRefGroup = 04CB3AB024D8291C0065CA9C /* Products */;
+			mainGroup = 04CB3AC424D829E30065CA9C;
+			productRefGroup = 04CB3ACE24D829E30065CA9C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				04CB3AAE24D8291C0065CA9C /* Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database- */,
+				04CB3ACC24D829E30065CA9C /* Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database- */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		04CB3AAD24D8291C0065CA9C /* Resources */ = {
+		04CB3ACB24D829E30065CA9C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04CB3ABD24D829240065CA9C /* LaunchScreen.storyboard in Resources */,
-				04CB3ABA24D829240065CA9C /* Assets.xcassets in Resources */,
-				04CB3AB824D8291C0065CA9C /* Main.storyboard in Resources */,
+				04CB3ADB24D829E40065CA9C /* LaunchScreen.storyboard in Resources */,
+				04CB3AD824D829E40065CA9C /* Assets.xcassets in Resources */,
+				04CB3AD624D829E30065CA9C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		04CB3AAB24D8291C0065CA9C /* Sources */ = {
+		04CB3AC924D829E30065CA9C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04CB3AB524D8291C0065CA9C /* ViewController.swift in Sources */,
-				04CB3AB324D8291C0065CA9C /* AppDelegate.swift in Sources */,
+				04CB3AD324D829E30065CA9C /* ViewController.swift in Sources */,
+				04CB3AD124D829E30065CA9C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		04CB3AB624D8291C0065CA9C /* Main.storyboard */ = {
+		04CB3AD424D829E30065CA9C /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				04CB3AB724D8291C0065CA9C /* Base */,
+				04CB3AD524D829E30065CA9C /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		04CB3ABB24D829240065CA9C /* LaunchScreen.storyboard */ = {
+		04CB3AD924D829E40065CA9C /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				04CB3ABC24D829240065CA9C /* Base */,
+				04CB3ADA24D829E40065CA9C /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -162,7 +162,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		04CB3ABF24D829240065CA9C /* Debug */ = {
+		04CB3ADD24D829E50065CA9C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -223,7 +223,7 @@
 			};
 			name = Debug;
 		};
-		04CB3AC024D829240065CA9C /* Release */ = {
+		04CB3ADE24D829E50065CA9C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -278,7 +278,7 @@
 			};
 			name = Release;
 		};
-		04CB3AC224D829240065CA9C /* Debug */ = {
+		04CB3AE024D829E50065CA9C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -295,7 +295,7 @@
 			};
 			name = Debug;
 		};
-		04CB3AC324D829240065CA9C /* Release */ = {
+		04CB3AE124D829E50065CA9C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -315,25 +315,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		04CB3AAA24D8291C0065CA9C /* Build configuration list for PBXProject "Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-" */ = {
+		04CB3AC824D829E30065CA9C /* Build configuration list for PBXProject "Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				04CB3ABF24D829240065CA9C /* Debug */,
-				04CB3AC024D829240065CA9C /* Release */,
+				04CB3ADD24D829E50065CA9C /* Debug */,
+				04CB3ADE24D829E50065CA9C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		04CB3AC124D829240065CA9C /* Build configuration list for PBXNativeTarget "Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-" */ = {
+		04CB3ADF24D829E50065CA9C /* Build configuration list for PBXNativeTarget "Food-ordering-app-like-swiggy-uber-eats-MVVM-and-Room-database-" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				04CB3AC224D829240065CA9C /* Debug */,
-				04CB3AC324D829240065CA9C /* Release */,
+				04CB3AE024D829E50065CA9C /* Debug */,
+				04CB3AE124D829E50065CA9C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 04CB3AA724D8291C0065CA9C /* Project object */;
+	rootObject = 04CB3AC524D829E30065CA9C /* Project object */;
 }
